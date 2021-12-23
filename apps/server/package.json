@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.2",
+    "shelljs": "^0.8.4",
     "socket.io": "^4.4.0"
   },
   "devDependencies": {
