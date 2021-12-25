@@ -5,6 +5,6 @@
     "apps/client"
   ],
   "scripts":{
-    "dev:server": "yarn workspace server dev"
+    "start": "yarn workspace server dev"
   }
 }

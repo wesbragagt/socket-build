@@ -1,0 +1,9 @@
+version: '3'
+
+services: 
+  socket_build:
+    expose: 
+      - 4001
+    ports: 
+      - 4001:4001
+    build: .
